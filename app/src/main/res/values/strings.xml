@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Demo Uno</string>
+    <string name="labelInstrucciones">Para cambiar tu correo as click en editar</string>
+    <string name="labelEmail">correo@gmail.com</string>
+    <string name="botonEditar">editar</string>
+    <string name="botonOk">OK</string>
+    <string name="botonCancelar">Cancelar</string>
+    <string name="labelCambioCorreo">Captura tu nueva dirección de correo</string>
+    <string name="pista">Tu correo aqui</string>
+</resources>
